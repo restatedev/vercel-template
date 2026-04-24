@@ -62,6 +62,12 @@ Once deployed, you can test your service using the [Restate Playground](https://
 - 🔐 Secure your endpoint as shown in your [Restate Cloud Dashboard > Developers > Security](https://cloud.restate.dev/to/developers/integration#security)
 - 📖 Explore the [Restate documentation](https://docs.restate.dev)
 - 🔍 Check out more [examples and tutorials](https://github.com/restatedev/examples)
-- 💬 Join the [Restate Discord community](https://discord.gg/skW3AZ6uGd)
+- 💬 Join the [Restate Discord community](https://discord.restate.dev)
 
 Happy building! 🎉
+
+## Using AI coding tools
+
+If you use Claude Code or Codex, then the Restate plugin will automatically be installed. For Cursor, consult the [skills repo README](https://github.com/restatedev/skills).
+
+Plugin repo: https://github.com/restatedev/skills/tree/main
